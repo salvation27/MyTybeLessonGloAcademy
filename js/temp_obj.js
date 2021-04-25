@@ -1,6 +1,7 @@
 // тренды
 
 const APIKeyYouTube = 'AIzaSyC_JdxEOit60zpFvOOkooEpIaOkk8RUtPc'
+const CLIENT_ID = '380245033507-33dd2khp2tuf7lvsibjk6v8d7ee5djo9.apps.googleusercontent.com'
 
 const trending = [
     {

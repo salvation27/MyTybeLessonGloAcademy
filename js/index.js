@@ -86,21 +86,3 @@ return  card
 
 
 createList(gloAcademiList,gloAcademy)
-
-const foo = (jj,name)=> {
-  const a = 1
-  return  () => {
-    console.log(jj(name))
-    console.log(a)
-  }
-}
-
-function bar(nm) {
-  return 'Привет ' + nm;
-} 
-
-
-const max = foo(bar,'любое имя')
-console.log(max);
-console.dir(max);
-max()
